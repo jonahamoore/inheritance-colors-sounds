@@ -1,0 +1,16 @@
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\bin\Debug\net5.0\colors-sounds-inheritance.exe
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\bin\Debug\net5.0\colors-sounds-inheritance.deps.json
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\bin\Debug\net5.0\colors-sounds-inheritance.runtimeconfig.json
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\bin\Debug\net5.0\colors-sounds-inheritance.runtimeconfig.dev.json
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\bin\Debug\net5.0\colors-sounds-inheritance.dll
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\bin\Debug\net5.0\ref\colors-sounds-inheritance.dll
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\bin\Debug\net5.0\colors-sounds-inheritance.pdb
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\obj\Debug\net5.0\colors-sounds-inheritance.csproj.AssemblyReference.cache
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\obj\Debug\net5.0\colors-sounds-inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\obj\Debug\net5.0\colors-sounds-inheritance.AssemblyInfoInputs.cache
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\obj\Debug\net5.0\colors-sounds-inheritance.AssemblyInfo.cs
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\obj\Debug\net5.0\colors-sounds-inheritance.csproj.CoreCompileInputs.cache
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\obj\Debug\net5.0\colors-sounds-inheritance.dll
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\obj\Debug\net5.0\ref\colors-sounds-inheritance.dll
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\obj\Debug\net5.0\colors-sounds-inheritance.pdb
+C:\Users\jonah\workspace\Back-End-Folder\colors-sounds-inheritance\obj\Debug\net5.0\colors-sounds-inheritance.genruntimeconfig.cache
